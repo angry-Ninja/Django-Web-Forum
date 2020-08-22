@@ -1,0 +1,15 @@
+{% extends 'accounts/base.html' %}
+{% block title %}
+  Login
+{% endblock %}
+{% block content %}
+<div class="container mx-auto">
+	<br>
+    
+    <form method="POST">
+      {% csrf_token %}
+      <input type="hidden" name="next" value="{{ next }}">
+      {% include 'accounts/includes/login_form.html' %}
+    </form>
+ </div>
+{% endblock%}

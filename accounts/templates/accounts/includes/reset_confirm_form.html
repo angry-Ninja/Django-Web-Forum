@@ -1,0 +1,18 @@
+{% load widget_tweaks %}
+<br>
+<div class="container ">
+
+        <h3 class="text-light">Reset Password</h3>
+        {% for field in form %}
+        <div class="form-group text-light">
+             {{ field.label_tag }}
+            <div class="input-group input-group-lg ">
+                {{field}}
+            </div>
+            <br>
+            {% endfor %}
+        
+        <button type="submit"  class="btn btn-success">Change Password</button>
+      </div>
+    </div>
+  

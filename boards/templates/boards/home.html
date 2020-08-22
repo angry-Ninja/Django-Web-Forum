@@ -1,0 +1,58 @@
+{% extends 'boards/base.html'%}
+
+{% block title %}
+Shubham's Forum
+{% endblock %} 
+
+{% block breadcrumb %} 
+<li class="breadcrumb-item active">Boards</li>
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+      <table class="table">
+        <thead class="thead-inverse">
+          <tr>
+            <th>Board</th>
+            <th>Posts</th>
+            <th>Topics</th>
+            <th>Last Post</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for board in boards %}
+          
+            <tr>
+              
+              <td>
+                <a style="text-decoration: none" href="{% url 'board_topics' board.pk %}">{{ board.name }}</a>
+                <small class="text-muted d-block">{{ board.description }}</small>
+              </td>
+              <td class="align-middle">{{ board.get_posts_count }}</td>
+              <td class="align-middle">{{ board.topics.count }}</td>
+              <td>
+                     {% with post=board.get_last_post %}
+                       {% if post %}
+                      <small>
+                         <a style="text-decoration: none" href="{% url 'topic_posts' board.pk post.topic.pk %}">
+                          By {{ post.created_by.username }} at {{ post.created_at }}
+                              </a>
+                       </small>
+                      {% else %}
+                       <small class="text-muted">
+                      <em>No posts yet.</em>
+                       </small>
+                      {% endif %}
+                    {% endwith %}
+                
+              </td>
+              
+            </tr>
+         
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  
+{% endblock %}
+  

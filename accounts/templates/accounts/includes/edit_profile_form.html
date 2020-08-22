@@ -1,0 +1,23 @@
+{% load widget_tweaks %}
+<br>
+<div class="container mx-auto">
+<div class="row mx-auto">
+  <div class="col-md-6 mx-auto">
+    <div class="card border-success">
+      <div class="card-body  text-light bg-dark ">
+        <h3 class="card-title text-light">Profile</h3>
+        {% for field in form %}
+        <div class="form-group">
+             {{ field.label_tag }}
+            <div class="input-group input-group-xl">
+                {{field}}
+            </div>
+            <br>
+            {% endfor %}
+        
+        <button type="submit"  class="btn btn-success" >Save Changes</button>
+      </div>
+    </div>
+  </div>
+ 
+ </div>
