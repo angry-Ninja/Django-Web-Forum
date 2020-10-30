@@ -1,0 +1,2423 @@
+[
+    {
+        "url": "http://ocsp.digicert.com/",
+        "method": "POST",
+        "request-header": {
+            "Host": "ocsp.digicert.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Content-Type": "application/ocsp-request",
+            "Content-Length": "83",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://ocsp.digicert.com/",
+        "method": "POST",
+        "request-header": {
+            "Host": "ocsp.digicert.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Content-Type": "application/ocsp-request",
+            "Content-Length": "83",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://ocsp.digicert.com/",
+        "method": "POST",
+        "request-header": {
+            "Host": "ocsp.digicert.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Content-Type": "application/ocsp-request",
+            "Content-Length": "83",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/ads-track-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/social-track-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/content-track-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv4",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv4": ""
+        },
+        "querystring": "ipv4"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv6",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv6": ""
+        },
+        "querystring": "ipv6"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv4",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv4": ""
+        },
+        "querystring": "ipv4"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv6",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv6": ""
+        },
+        "querystring": "ipv6"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv4",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv4": ""
+        },
+        "querystring": "ipv4"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv6",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv6": ""
+        },
+        "querystring": "ipv6"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/wp-emoji-release.min.js?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://fonts.googleapis.com/css2?family=Josefin+Sans%3Awght%40500%3B600%3B700&display=swap&ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.googleapis.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "family": "Josefin Sans:wght@500;600;700",
+            "display": "swap",
+            "ver": "5.5.1"
+        },
+        "querystring": "family=Josefin+Sans%3Awght%40500%3B600%3B700&display=swap&ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.11",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "2.0.11"
+        },
+        "querystring": "ver=2.0.11"
+    },
+    {
+        "url": "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500&display=swap&ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.googleapis.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "family": "Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500",
+            "display": "swap",
+            "ver": "5.5.1"
+        },
+        "querystring": "family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500&display=swap&ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/menu-image/includes/css/menu-image.css?ver=2.9.6",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "2.9.6"
+        },
+        "querystring": "ver=2.9.6"
+    },
+    {
+        "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.googleapis.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "family": "Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+            "ver": "5.5.1"
+        },
+        "querystring": "family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=2.0.11",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "2.0.11"
+        },
+        "querystring": "ver=2.0.11"
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-67237992-5",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.googletagmanager.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "id": "UA-67237992-5"
+        },
+        "querystring": "id=UA-67237992-5"
+    },
+    {
+        "url": "https://js.hs-scripts.com/5372821.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "js.hs-scripts.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1496263270",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1603895881",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1603895881"
+        },
+        "querystring": "ver=1603895881"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1494877265",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Connection": "keep-alive"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/themes/tik/style.css?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.9.1"
+        },
+        "querystring": "ver=5.9.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.12",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "3.0.12"
+        },
+        "querystring": "ver=3.0.12"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv4",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv4": ""
+        },
+        "querystring": "ipv4"
+    },
+    {
+        "url": "http://detectportal.firefox.com/success.txt?ipv6",
+        "method": "GET",
+        "request-header": {
+            "Host": "detectportal.firefox.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {
+            "ipv6": ""
+        },
+        "querystring": "ipv6"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.12",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "3.0.12"
+        },
+        "querystring": "ver=3.0.12"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/elementor/css/post-578.css?ver=1603252507",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1603252507"
+        },
+        "querystring": "ver=1603252507"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1512160865",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/elementor/css/post-586.css?ver=1603252507",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1603252507"
+        },
+        "querystring": "ver=1603252507"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.12.0"
+        },
+        "querystring": "ver=5.12.0"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=52cce556",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "52cce556"
+        },
+        "querystring": "ver=52cce556"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.12.4-wp"
+        },
+        "querystring": "ver=1.12.4-wp"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=52cce556",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "52cce556"
+        },
+        "querystring": "ver=52cce556"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=52cce556",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "52cce556"
+        },
+        "querystring": "ver=52cce556"
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/82.0/1600960165",
+        "method": "GET",
+        "request-header": {
+            "Host": "tracking-protection.cdn.mozilla.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-simple-type-frontend.min.js?ver=52cce556",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "52cce556"
+        },
+        "querystring": "ver=52cce556"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/nextend-webfontloader.min.js?ver=52cce556",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "52cce556"
+        },
+        "querystring": "ver=52cce556"
+    },
+    {
+        "url": "https://www.tikaj.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.3",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "4.3.3"
+        },
+        "querystring": "ver=4.3.3"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1603895881",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1603895881"
+        },
+        "querystring": "ver=1603895881"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/themes/tik/assets/js/navigation.min.js?ver=20151215",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "20151215"
+        },
+        "querystring": "ver=20151215"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/themes/tik/assets/js/tik-custom.min.js?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.11.4"
+        },
+        "querystring": "ver=1.11.4"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1601954008&ver=1.7.29",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "defer": "",
+            "generated": "1601954008",
+            "ver": "1.7.29"
+        },
+        "querystring": "defer&generated=1601954008&ver=1.7.29"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/make-column-clickable-elementor/assets/js/make-column-clickable.js?ver=1.3.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.3.1"
+        },
+        "querystring": "ver=1.3.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.12",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "3.0.12"
+        },
+        "querystring": "ver=3.0.12"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "4.8.1"
+        },
+        "querystring": "ver=4.8.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "4.0.2"
+        },
+        "querystring": "ver=4.0.2"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.12",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "3.0.12"
+        },
+        "querystring": "ver=3.0.12"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.12",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "3.0.12"
+        },
+        "querystring": "ver=3.0.12"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.3.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.6.3.1"
+        },
+        "querystring": "ver=1.6.3.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.19.0"
+        },
+        "querystring": "ver=1.19.0"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.1.2"
+        },
+        "querystring": "ver=1.1.2"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.3.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.6.3.1"
+        },
+        "querystring": "ver=1.6.3.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "4.7.0"
+        },
+        "querystring": "ver=4.7.0"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.8.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "2.8.1"
+        },
+        "querystring": "ver=2.8.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.12",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "3.0.12"
+        },
+        "querystring": "ver=3.0.12"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/elementor/css/global.css?ver=1603252507",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1603252507"
+        },
+        "querystring": "ver=1603252507"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/pum/pum-site-styles.css?generated=1601954006&ver=1.7.29",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "generated": "1601954006",
+            "ver": "1.7.29"
+        },
+        "querystring": "generated=1601954006&ver=1.7.29"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.3",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "4.3.3"
+        },
+        "querystring": "ver=4.3.3"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.6.3.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.6.3.1"
+        },
+        "querystring": "ver=1.6.3.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/themes/tik/assets/js/skip-link-focus-fix.min.js?ver=20151215",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "20151215"
+        },
+        "querystring": "ver=20151215"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.11.4"
+        },
+        "querystring": "ver=1.11.4"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/wp-embed.min.js?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.3.6"
+        },
+        "querystring": "ver=5.3.6"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/underscore.min.js?ver=1.8.3",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "1.8.3"
+        },
+        "querystring": "ver=1.8.3"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-includes/js/wp-util.min.js?ver=5.5.1",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.5.1"
+        },
+        "querystring": "ver=5.5.1"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "ver": "5.12.0"
+        },
+        "querystring": "ver=5.12.0"
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/08/VAPTl-CTA-Clean.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/06/Products.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/10/cybersecurity-governance-300x199.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/06/Industries.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/06/Services.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/10/Cybersecurity-COVID-300x199.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400%7CMontserrat:300,400&subset=latin",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.googleapis.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "family": "Roboto:300,400|Montserrat:300,400",
+            "subset": "latin"
+        },
+        "querystring": "family=Roboto:300,400%7CMontserrat:300,400&subset=latin"
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/josefinsans/v16/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhLw.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Josefin+Sans%3Awght%40500%3B600%3B700&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.3",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/10/data-security-300x199.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "v": "4.7.0"
+        },
+        "querystring": "v=4.7.0"
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/josefinsans/v16/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhLw.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Josefin+Sans%3Awght%40500%3B600%3B700&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/09/Broken-Authentication2-compressed-300x200.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://js.hs-banner.com/5372821.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "js.hs-banner.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://js.usemessages.com/conversations-embed.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "js.usemessages.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css?family=Roboto:300,400%7CMontserrat:300,400&subset=latin"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/10/logo-white.svg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/themes/tik/assets/fonts/themegrill-icons.woff2?5d42b271f668d2d6461ba91fc5a5a839",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/wp-content/themes/tik/style.css?ver=5.5.1",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {
+            "5d42b271f668d2d6461ba91fc5a5a839": ""
+        },
+        "querystring": "5d42b271f668d2d6461ba91fc5a5a839"
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/josefinsans/v16/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhLw.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Josefin+Sans%3Awght%40500%3B600%3B700&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/04/logo-red.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/08/CTA-Image.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/08/database-vuln-2.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/08/vapt-wallpaper11.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/10/contact-us-left.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css?family=Roboto:300,400%7CMontserrat:300,400&subset=latin"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500&display=swap&ver=5.5.1"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2",
+        "method": "GET",
+        "request-header": {
+            "Host": "fonts.gstatic.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "identity",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://fonts.googleapis.com/css?family=Roboto:300,400%7CMontserrat:300,400&subset=latin"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/06/rsz_banner_8.jpg",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/wp-content/uploads/elementor/css/post-586.css?ver=1603252507",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://api.hubspot.com/livechat-public/v1/message/public?portalId=5372821&conversations-embed=static-1.7723&mobile=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&traceId=c962ff9a5d9b4aefbbee29016680014f",
+        "method": "GET",
+        "request-header": {
+            "Host": "api.hubspot.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "X-HubSpot-Messages-Uri": "https://www.tikaj.com/",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "portalId": "5372821",
+            "conversations-embed": "static-1.7723",
+            "mobile": "false",
+            "messagesUtk": "c962ff9a5d9b4aefbbee29016680014f",
+            "traceId": "c962ff9a5d9b4aefbbee29016680014f"
+        },
+        "querystring": "portalId=5372821&conversations-embed=static-1.7723&mobile=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&traceId=c962ff9a5d9b4aefbbee29016680014f"
+    },
+    {
+        "url": "https://app.hubspot.com/conversations-visitor/5372821/threads/utk/c962ff9a5d9b4aefbbee29016680014f?uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false",
+        "method": "GET",
+        "request-header": {
+            "Host": "app.hubspot.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Upgrade-Insecure-Requests": "1"
+        },
+        "param": {
+            "uuid": "5c3ddae7eeb3420abda0fc70593bdb5d",
+            "mobile": "false",
+            "mobileSafari": "false",
+            "hideWelcomeMessage": "false",
+            "hstc": "null",
+            "domain": "tikaj.com",
+            "inApp53": "false",
+            "messagesUtk": "c962ff9a5d9b4aefbbee29016680014f",
+            "url": "https://www.tikaj.com/",
+            "inline": "false",
+            "isFullscreen": "false",
+            "globalCookieOptOut": "null",
+            "isFirstVisitorSession": "true",
+            "isAttachmentDisabled": "false",
+            "enableWidgetCookieBanner": "false",
+            "isInCMS": "false"
+        },
+        "querystring": "uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false"
+    },
+    {
+        "url": "https://rec.smartlook.com/recorder.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "rec.smartlook.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://js.hs-analytics.net/analytics/1603899000000/5372821.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "js.hs-analytics.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/06/favicon-96x96-1-36x36.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019; pll_language=en"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.google-analytics.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.tikaj.com/wp-content/uploads/2020/06/favicon-96x96-1.png",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.tikaj.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/",
+            "Cookie": "__cfduid=d216a85c79c2ef9eece3c96355f0cff751603899019; pll_language=en"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j86&a=390626311&t=pageview&_s=1&dl=https%3A%2F%2Fwww.tikaj.com%2F&ul=en-us&de=UTF-8&dt=Enterprise%20Security%20And%20Intelligence%20%7C%20TIKAJ&sd=24-bit&sr=1366x768&vp=1356x694&je=0&_u=IEBAAUABAAAAAC~&jid=885084827&gjid=516693820&cid=786726139.1603899030&tid=UA-67237992-5&_gid=1067752399.1603899030&_r=1&gtm=2ouae2&z=1836220513",
+        "method": "POST",
+        "request-header": {
+            "Host": "www.google-analytics.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Content-Type": "text/plain",
+            "Content-Length": "0",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "v": "1",
+            "_v": "j86",
+            "a": "390626311",
+            "t": "pageview",
+            "_s": "1",
+            "dl": "https://www.tikaj.com/",
+            "ul": "en-us",
+            "de": "UTF-8",
+            "dt": "Enterprise Security And Intelligence | TIKAJ",
+            "sd": "24-bit",
+            "sr": "1366x768",
+            "vp": "1356x694",
+            "je": "0",
+            "_u": "IEBAAUABAAAAAC~",
+            "jid": "885084827",
+            "gjid": "516693820",
+            "cid": "786726139.1603899030",
+            "tid": "UA-67237992-5",
+            "_gid": "1067752399.1603899030",
+            "_r": "1",
+            "gtm": "2ouae2",
+            "z": "1836220513"
+        },
+        "querystring": "v=1&_v=j86&a=390626311&t=pageview&_s=1&dl=https%3A%2F%2Fwww.tikaj.com%2F&ul=en-us&de=UTF-8&dt=Enterprise%20Security%20And%20Intelligence%20%7C%20TIKAJ&sd=24-bit&sr=1366x768&vp=1356x694&je=0&_u=IEBAAUABAAAAAC~&jid=885084827&gjid=516693820&cid=786726139.1603899030&tid=UA-67237992-5&_gid=1067752399.1603899030&_r=1&gtm=2ouae2&z=1836220513"
+    },
+    {
+        "url": "https://static.hsappstatic.net/head-dlb/static-1.80/bundle.production.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "static.hsappstatic.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Origin": "https://app.hubspot.com",
+            "Connection": "keep-alive",
+            "Referer": "https://app.hubspot.com/conversations-visitor/5372821/threads/utk/c962ff9a5d9b4aefbbee29016680014f?uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://static.hsappstatic.net/conversations-visitor-ui/static-1.10074/sass/visitor.css",
+        "method": "GET",
+        "request-header": {
+            "Host": "static.hsappstatic.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "text/css,*/*;q=0.1",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://app.hubspot.com/conversations-visitor/5372821/threads/utk/c962ff9a5d9b4aefbbee29016680014f?uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://static.hsappstatic.net/hubspot-dlb/static-1.95/bundle.production.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "static.hsappstatic.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Origin": "https://app.hubspot.com",
+            "Connection": "keep-alive",
+            "Referer": "https://app.hubspot.com/conversations-visitor/5372821/threads/utk/c962ff9a5d9b4aefbbee29016680014f?uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://static.hsappstatic.net/conversations-visitor-ui/static-1.10183/bundles/visitor.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "static.hsappstatic.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Origin": "https://app.hubspot.com",
+            "Connection": "keep-alive",
+            "Referer": "https://app.hubspot.com/conversations-visitor/5372821/threads/utk/c962ff9a5d9b4aefbbee29016680014f?uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false"
+        },
+        "param": {},
+        "querystring": ""
+    },
+    {
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j86&tid=UA-67237992-5&cid=786726139.1603899030&jid=885084827&gjid=516693820&_gid=1067752399.1603899030&_u=IEBAAUAAAAAAAC~&z=502650752",
+        "method": "POST",
+        "request-header": {
+            "Host": "stats.g.doubleclick.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Content-Type": "text/plain",
+            "Content-Length": "0",
+            "Origin": "https://www.tikaj.com",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "t": "dc",
+            "aip": "1",
+            "_r": "3",
+            "v": "1",
+            "_v": "j86",
+            "tid": "UA-67237992-5",
+            "cid": "786726139.1603899030",
+            "jid": "885084827",
+            "gjid": "516693820",
+            "_gid": "1067752399.1603899030",
+            "_u": "IEBAAUAAAAAAAC~",
+            "z": "502650752"
+        },
+        "querystring": "t=dc&aip=1&_r=3&v=1&_v=j86&tid=UA-67237992-5&cid=786726139.1603899030&jid=885084827&gjid=516693820&_gid=1067752399.1603899030&_u=IEBAAUAAAAAAAC~&z=502650752"
+    },
+    {
+        "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j86&tid=UA-67237992-5&cid=786726139.1603899030&jid=885084827&_u=IEBAAUAAAAAAAC~&z=474038676",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.google.com",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "t": "sr",
+            "aip": "1",
+            "_r": "4",
+            "slf_rd": "1",
+            "v": "1",
+            "_v": "j86",
+            "tid": "UA-67237992-5",
+            "cid": "786726139.1603899030",
+            "jid": "885084827",
+            "_u": "IEBAAUAAAAAAAC~",
+            "z": "474038676"
+        },
+        "querystring": "t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j86&tid=UA-67237992-5&cid=786726139.1603899030&jid=885084827&_u=IEBAAUAAAAAAAC~&z=474038676"
+    },
+    {
+        "url": "https://www.google.co.in/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j86&tid=UA-67237992-5&cid=786726139.1603899030&jid=885084827&_u=IEBAAUAAAAAAAC~&z=474038676",
+        "method": "GET",
+        "request-header": {
+            "Host": "www.google.co.in",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "image/webp,*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Referer": "https://www.tikaj.com/"
+        },
+        "param": {
+            "t": "sr",
+            "aip": "1",
+            "_r": "4",
+            "slf_rd": "1",
+            "v": "1",
+            "_v": "j86",
+            "tid": "UA-67237992-5",
+            "cid": "786726139.1603899030",
+            "jid": "885084827",
+            "_u": "IEBAAUAAAAAAAC~",
+            "z": "474038676"
+        },
+        "querystring": "t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j86&tid=UA-67237992-5&cid=786726139.1603899030&jid=885084827&_u=IEBAAUAAAAAAAC~&z=474038676"
+    },
+    {
+        "url": "https://static.hsappstatic.net/conversations-visitor-ui/static-1.10157/i18n-data-data-locales-en-us.js",
+        "method": "GET",
+        "request-header": {
+            "Host": "static.hsappstatic.net",
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Origin": "https://app.hubspot.com",
+            "Connection": "keep-alive",
+            "Referer": "https://app.hubspot.com/conversations-visitor/5372821/threads/utk/c962ff9a5d9b4aefbbee29016680014f?uuid=5c3ddae7eeb3420abda0fc70593bdb5d&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=tikaj.com&inApp53=false&messagesUtk=c962ff9a5d9b4aefbbee29016680014f&url=https%3A%2F%2Fwww.tikaj.com%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false"
+        },
+        "param": {},
+        "querystring": ""
+    }
+]
+
